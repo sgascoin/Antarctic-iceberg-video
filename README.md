@@ -1,6 +1,6 @@
 # Antarctic Iceberg Video
 
-This video shows Antarctic icebergs that are named and tracked by the [U.S. National Ice Center](https://usicecenter.gov/Products/AntarcIcebergs) (2014-2023)
+This video shows Antarctic icebergs that are named and tracked by the [U.S. National Ice Center](https://usicecenter.gov/Products/AntarcIcebergs) (2014-2023). The circle diameter is proportional to the iceberg size. I labelled only the largest ones.
 
 My code to generate the video from USNICE files is also available ([notebook](Antarctic-iceberg-video.ipynb)).
 
