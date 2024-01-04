@@ -1,8 +1,9 @@
 # Antarctic Iceberg Video
-Video of all icebergs inventoried by the [U.S. National Ice Center](https://usicecenter.gov/Products/AntarcIcebergs) (2014-2023)
 
-The code I used to generate the video is in the [notebook](Antarctic-iceberg-video.ipynb).
+This video shows Antarctic icebergs that are named and tracked by the [U.S. National Ice Center](https://usicecenter.gov/Products/AntarcIcebergs) (2014-2023)
 
-This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+My code to generate the video from USNICE files is also available ([notebook](Antarctic-iceberg-video.ipynb)).
 
-https://github.com/sgascoin/Antarctic-iceberg-video/assets/29677722/23c9ac10-b1d4-4736-ac03-06637aca4a35
+https://github.com/sgascoin/Antarctic-iceberg-video/assets/29677722/521f6fcb-e37a-4fec-9c24-a14489f86662
+
+This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
